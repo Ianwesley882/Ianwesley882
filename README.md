@@ -9,9 +9,9 @@ I'm currently focused on building projects that combine data engineering, machin
 ## 🔧 Tech Stack & Tools
 - **Languages:** Python, JavaScript, SQL, C++, R  
 - **Web:** HTML, CSS, Node.js, Express, React (Basics)  
-- **Data:** MySQL, Power BI, SAS, SPSS, Pandas, NumPy  
-- **Automation:** OpenAI API, n8n  
-- **Tools:** Git, GitHub, VS Code, Notion, Jupyter
+- **Data:** MySQL, SAS, SPSS  
+- **Automation:** OpenAI API
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
