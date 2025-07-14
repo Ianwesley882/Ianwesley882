@@ -1,4 +1,8 @@
 # 📊 GitHub Stats
+About Me:
+Hi there! Welcome to my GitHub landing page!
+I'm Ngwako, a recent BSc graduate in Computer Science and Statistics with a passion for solving real-world problems using data-driven solutions, automation, and AI.
+I'm currently focused on building projects that combine data engineering, machine learning, and full-stack web development. Whether it's automating workflows, analyzing data, or creating responsive web apps, I'm always excited to learn, build, and share.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ianwesley882&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
@@ -8,6 +12,6 @@
 
 ---
 
-[![Profile Visits](https://visitcount.itsvg.in/api?id=Ianwesley882&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
